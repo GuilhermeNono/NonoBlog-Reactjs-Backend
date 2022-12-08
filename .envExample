@@ -1,0 +1,5 @@
+PORT=0000
+ORIGIN=http://localhost:0000
+DB_USER=MongooseDBUser
+DB_PASS=MongooseDBPassword
+JWT_SECRET=yourJWTSecret
