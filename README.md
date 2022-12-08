@@ -15,7 +15,19 @@
 
 ### 🗜️ Functionalities
 
-- In development...
+- Create a user
+- Log into an account to get a token
+- Update the user account
+- Get user account data
+- Insert a photo
+- Delete a photo
+- Get all the photos from the database
+- Get photos of a user
+- Get Photo information by Id
+- Update a photo title
+- Like photo
+- Comment on the photo
+- Search Photo by title
 
 #
 <a href="https://github.com/GuilhermeNono/NonoBlog-Reactjs-Backend">> DEMO</a>
